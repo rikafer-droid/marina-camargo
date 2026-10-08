@@ -1,0 +1,642 @@
+# PROJETO — LANDING PAGE MARINA
+## Site pessoal + ecossistema de atuação
+
+Crie uma landing page estática, moderna, autoral e responsiva para apresentar a Marina e o ecossistema de projetos, ideias e frentes de atuação que fazem parte da vida dela.
+
+## 1. CONCEITO CENTRAL
+
+IMPORTANTE:
+
+Este NÃO deve ser um site corporativo tradicional.
+
+Não quero que o site pareça um currículo online, um portfólio empresarial ou uma página institucional de consultoria.
+
+A protagonista do site é a própria MARINA.
+
+O conceito deve ser:
+
+**Marina no centro. Ao redor dela existem diferentes universos que representam quem ela é, o que pensa, o que constrói e as causas com as quais se envolve.**
+
+Ela é jornalista, escritora, profissional de comunicação, empreendedora, articuladora de temas sociais e criadora de conteúdo.
+
+O site deve transmitir personalidade, inteligência, autenticidade, sensibilidade e movimento.
+
+A pessoa que entrar deve sentir que está conhecendo a Marina, e não lendo uma apresentação corporativa.
+
+---
+
+# 2. IDENTIDADE DA MARINA
+
+Use as informações abaixo como base real do conteúdo.
+
+Nome:
+
+MARINA
+
+Profissão:
+
+Jornalista
+
+Local:
+
+São Paulo, Brasil
+
+Descrição pessoal:
+
+"Escorpiana, tatuada e viajante. Jornalista que ama pontos finais, respeito ao próximo e refrigerante de laranja."
+
+Perfil profissional:
+
+Especialista em Comunicação Interna, Externa e Institucional | Marca | Estrategista de Conteúdo | Employer Branding | Posicionamento Executivo | Gestão de Crise | Eventos
+
+Experiência:
+
+Mais de 12 anos de experiência profissional.
+
+Atuação em ambientes de alta complexidade, transformação cultural e grandes multinacionais.
+
+Mentalidade data-driven.
+
+Experiência com Comunicação Interna e Externa, estratégia, gestão e operação.
+
+Atuação com Metodologias Ágeis.
+
+Articuladora de pautas de Diversidade, Equidade e Inclusão (DE&I) e bem-estar.
+
+Interesse e atuação em Inteligência Artificial.
+
+Palestrante.
+
+Coautora do livro-reportagem:
+
+"Viver é um ato de revolução"
+
+Também dá aulas de Português para brasileiros e estrangeiros.
+
+Reconhecimentos:
+
+Quatro vezes vencedora do prêmio "Empresa que melhor se comunica com os jornalistas".
+
+Ganhadora do Prêmio Aberje de Comunicação Corporativa.
+
+---
+
+# 3. ARQUITETURA DO SITE
+
+Criar uma experiência de página única, com navegação suave entre as seções.
+
+Sugestão de estrutura:
+
+1. HERO — MARINA
+2. QUEM É MARINA
+3. O ECOSSISTEMA
+4. A LINHA DO TREM — BLOG
+5. DESFAZENDO NÓS — ONG / PROJETO SOCIAL
+6. MDDC COMUNICAÇÃO — EMPRESA
+7. MARINA PROFISSIONAL
+8. IDEIAS / PALAVRAS / CONEXÕES
+9. CONTATO / REDES
+10. FOOTER
+
+A estrutura pode ser adaptada caso, durante o desenvolvimento, exista uma solução visual melhor.
+
+---
+
+# 4. HERO — MARINA COMO CENTRO
+
+A primeira tela deve ser visualmente forte e muito pessoal.
+
+Não criar uma hero corporativa genérica com:
+
+"Olá, sou Marina, especialista em comunicação..."
+
+Evitar linguagem de apresentação empresarial.
+
+A hero deve apresentar Marina como uma pessoa que possui diferentes caminhos.
+
+Criar uma composição visual em que o nome:
+
+MARINA
+
+tenha bastante destaque.
+
+Pode utilizar uma frase conceitual como:
+
+"Jornalista. Comunicadora. Escritora. Articuladora de ideias. E um monte de outras coisas pelo caminho."
+
+OU desenvolver uma frase melhor baseada no conceito do projeto.
+
+Criar ao redor ou abaixo do nome pequenos elementos representando seus diferentes universos:
+
+Jornalismo
+Comunicação
+Escrita
+Impacto social
+Estratégia
+Conteúdo
+Pessoas
+Ideias
+
+Esses elementos podem funcionar como pequenas "órbitas", cartões, palavras flutuantes ou pontos de conexão.
+
+O visual deve transmitir movimento e conexão.
+
+---
+
+# 5. SEÇÃO "QUEM É MARINA"
+
+Criar uma seção mais editorial e humana.
+
+Não apresentar como currículo.
+
+Usar uma combinação de texto + elementos visuais.
+
+Utilizar como referência a descrição:
+
+"Escorpiana, tatuada e viajante. Jornalista que ama pontos finais, respeito ao próximo e refrigerante de laranja."
+
+Essa frase deve ter destaque.
+
+Depois apresentar uma versão resumida da trajetória profissional.
+
+Texto base:
+
+"Pensar, ligar os pontos, escrever, organizar e ter atenção aos detalhes e às pessoas direcionam bem quem eu sou profissionalmente — e o que amo fazer."
+
+Explicar de maneira natural que Marina atua há mais de 12 anos na área de comunicação, passando por Comunicação Interna, Comunicação Externa, Comunicação Institucional, estratégia, conteúdo, marca, employer branding, posicionamento executivo, gestão de crise e eventos.
+
+Não transformar isso em uma lista excessiva de competências.
+
+A prioridade é personalidade.
+
+---
+
+# 6. O ECOSSISTEMA
+
+Criar uma seção visual central do projeto.
+
+Título sugerido:
+
+"Algumas das minhas versões"
+
+ou
+
+"Meu ecossistema"
+
+ou criar uma solução autoral melhor.
+
+Apresentar três grandes frentes:
+
+## A LINHA DO TREM
+
+Blog pessoal.
+
+Descrição:
+
+Um espaço onde Marina escreve o que pensa.
+
+Não transformar o blog em uma simples lista de posts.
+
+Tratar como o espaço mais autoral e íntimo do site.
+
+Link:
+
+http://alinhadotrem.blogspot.com/
+
+Usar o nome:
+
+A Linha do Trem
+
+Criar botão:
+
+"Entrar no blog"
+
+ou
+
+"Ler o que ela escreve"
+
+---
+
+## DESFAZENDO NÓS
+
+Projeto/ONG voltado para mulheres.
+
+Instagram:
+
+https://www.instagram.com/_desfazendonos/
+
+Descrição oficial:
+
+"Ajudamos mulheres na busca pelo autoconhecimento. Desfazendo Nós e criando novos laços."
+
+Essa frente deve ter uma linguagem visual mais humana, acolhedora e social.
+
+Não transformar em comunicação institucional pesada.
+
+Criar CTA para conhecer o projeto.
+
+---
+
+## MDDC COMUNICAÇÃO
+
+Empresa própria de comunicação.
+
+Descrição:
+
+"Empresa própria voltada ao desenvolvimento de estratégias de comunicação, conteúdo e cultura organizacional, apoiando empresas de diferentes setores na construção de narrativas institucionais, fortalecimento de marca, engajamento interno e reputação."
+
+Apresentar como uma das manifestações profissionais da Marina.
+
+Principais áreas:
+
+- Comunicação Interna
+- Comunicação Externa
+- Comunicação Institucional
+- Conteúdo
+- Estratégia
+- Employer Branding
+- Reputação
+- Assessoria de imprensa
+- PR
+- Redes sociais
+- Gestão de crise
+- Comunicação de transformação
+- Influenciadores
+- Cultura organizacional
+
+Clientes atendidos:
+
+Mercado Bitcoin
+Suhai Seguros
+Any Any
+MM Soluções Integradas
+InformaEnergy
+EGAESE
+Tr3s Consultoria Social
+In Forma Software
+
+Não criar uma enorme lista corporativa.
+
+Apresentar de maneira visual e elegante.
+
+LinkedIn:
+
+https://www.linkedin.com/company/mddc-comunica%C3%A7%C3%A3o/
+
+CTA:
+
+"Conheça a MDDC"
+
+---
+
+# 7. A LINHA DO TREM
+
+Criar uma seção específica para o blog.
+
+O blog deve ser tratado como uma extensão da personalidade da Marina.
+
+Título:
+
+"A Linha do Trem"
+
+Subtítulo/conceito:
+
+"O lugar onde ela escreve o que pensa."
+
+Mostrar que existe uma Marina profissional e uma Marina que observa o mundo, pensa e escreve.
+
+Link:
+
+http://alinhadotrem.blogspot.com/
+
+Criar botão para acessar o blog.
+
+IMPORTANTE:
+
+Não tentar copiar automaticamente os posts do Blogger.
+
+Não fazer scraping.
+
+Não inventar títulos ou textos de posts.
+
+Criar apenas a apresentação do blog.
+
+---
+
+# 8. DESFAZENDO NÓS
+
+Criar uma seção visualmente diferente das outras.
+
+Objetivo:
+
+Mostrar que a atuação da Marina também passa por impacto social e apoio a mulheres.
+
+Texto:
+
+"Ajudamos mulheres na busca pelo autoconhecimento. Desfazendo Nós e criando novos laços."
+
+Apresentar o projeto como algo vivo e humano.
+
+CTA:
+
+"Conheça o Desfazendo Nós"
+
+Link:
+
+https://www.instagram.com/_desfazendonos/
+
+Evitar estética de ONG tradicional.
+
+---
+
+# 9. MDDC COMUNICAÇÃO
+
+Criar uma seção mais estratégica, mas sem transformar todo o site em um site corporativo.
+
+Título:
+
+"MDDC Comunicação"
+
+Subtítulo:
+
+"Comunicação, conteúdo, cultura e reputação."
+
+Mostrar que a MDDC é a frente empreendedora/profissional da Marina.
+
+Apresentar de forma resumida:
+
+- Comunicação Interna
+- Estratégia de Conteúdo
+- Marca
+- Cultura Organizacional
+- Employer Branding
+- Relações com a imprensa
+- PR
+- Redes sociais
+- Gestão de crise
+- Posicionamento
+- Influenciadores
+- Comunicação de transformação
+
+Mostrar alguns clientes em uma composição visual discreta.
+
+CTA:
+
+"Conheça a MDDC"
+
+Link para LinkedIn:
+
+https://www.linkedin.com/company/mddc-comunica%C3%A7%C3%A3o/
+
+---
+
+# 10. MARINA PROFISSIONAL
+
+Criar uma seção que apresente a trajetória profissional de maneira editorial.
+
+Não criar um currículo gigante.
+
+Destacar:
+
++12 anos de experiência
+
+Comunicação Corporativa
+
+Estratégia
+
+Conteúdo
+
+Marca
+
+Employer Branding
+
+Posicionamento Executivo
+
+Gestão de Crise
+
+Eventos
+
+DE&I
+
+Bem-estar
+
+Inteligência Artificial
+
+Metodologias Ágeis
+
+Palestras
+
+Também destacar:
+
+"Quatro vezes vencedora do prêmio Empresa que melhor se comunica com os jornalistas."
+
+"Vencedora do Prêmio Aberje de Comunicação Corporativa."
+
+"Coautora do livro-reportagem Viver é um ato de revolução."
+
+Criar uma composição visual que dê importância aos reconhecimentos sem parecer uma página de currículo.
+
+---
+
+# 11. LINKEDIN
+
+Criar um CTA para o perfil profissional.
+
+LinkedIn:
+
+https://www.linkedin.com/in/marina-camargo19/
+
+Texto sugerido:
+
+"Quer conhecer a Marina profissional?"
+
+Botão:
+
+"LinkedIn"
+
+---
+
+# 12. IDEIAS / CONEXÕES
+
+Criar uma seção final conceitual antes do contato.
+
+A ideia é mostrar que todas as frentes possuem uma conexão:
+
+Jornalismo → escrita → comunicação → pessoas → estratégia → impacto.
+
+Criar uma composição visual de palavras conectadas.
+
+Pode utilizar uma frase como:
+
+"Talvez tudo isso pareça diferente. Para mim, são apenas formas diferentes de fazer a mesma coisa: pensar, conectar pessoas e transformar ideias em movimento."
+
+Essa frase pode ser melhorada pelo Codex se encontrar uma solução editorial mais forte, mas NÃO inventar informações biográficas.
+
+---
+
+# 13. CONTATO
+
+Criar uma seção simples.
+
+Não inventar telefone, e-mail ou endereço.
+
+Utilizar apenas links disponíveis no projeto.
+
+Links disponíveis:
+
+Blog:
+http://alinhadotrem.blogspot.com/
+
+Instagram Desfazendo Nós:
+https://www.instagram.com/_desfazendonos/
+
+LinkedIn Marina:
+https://www.linkedin.com/in/marina-camargo19/
+
+LinkedIn MDDC:
+https://www.linkedin.com/company/mddc-comunica%C3%A7%C3%A3o/
+
+---
+
+# 14. DIREÇÃO VISUAL
+
+IMPORTANTE:
+
+Não criar um visual corporativo azul, branco e cinza.
+
+Não utilizar aparência de site de consultoria tradicional.
+
+A estética deve parecer:
+
+editorial
+contemporânea
+autoral
+inteligente
+humana
+criativa
+sofisticada
+um pouco experimental
+
+A inspiração deve estar mais próxima de:
+
+revista/editorial digital
+site pessoal de jornalista
+portfólio autoral
+publicação independente
+direção de arte contemporânea
+
+do que de:
+
+consultoria
+empresa tradicional
+currículo
+site institucional.
+
+---
+
+# 15. CORES
+
+Criar uma paleta sofisticada e autoral.
+
+Evitar excesso de cores.
+
+Utilizar uma base neutra e uma ou duas cores de destaque.
+
+A paleta pode explorar:
+
+preto
+off-white
+cinza
+tons terrosos
+uma cor de destaque mais vibrante
+
+O resultado deve ter personalidade, mas continuar elegante.
+
+Não deixar o site infantil.
+
+---
+
+# 16. TIPOGRAFIA
+
+Utilizar uma combinação de fontes:
+
+uma fonte serifada/editorial para títulos ou frases de impacto
+
++
+uma fonte sans-serif moderna para textos e navegação.
+
+Garantir boa legibilidade.
+
+Criar forte hierarquia tipográfica.
+
+O nome MARINA pode ter uma tipografia muito marcante.
+
+---
+
+# 17. EXPERIÊNCIA VISUAL
+
+Criar pequenas interações:
+
+- elementos aparecendo suavemente durante o scroll;
+- palavras conectando-se;
+- cards com microinterações;
+- hover elegante;
+- transições suaves;
+- pequenas mudanças de escala;
+- linhas ou pontos conectando as diferentes áreas.
+
+NÃO exagerar.
+
+Não transformar o site em uma animação pesada.
+
+Priorizar performance.
+
+---
+
+# 18. RESPONSIVIDADE
+
+O site precisa funcionar perfeitamente em:
+
+Desktop
+Notebook
+Tablet
+Celular
+
+No celular:
+
+- menu hambúrguer;
+- textos legíveis;
+- cards empilhados;
+- animações reduzidas quando necessário;
+- navegação confortável;
+- botões fáceis de tocar.
+
+---
+
+# 19. TECNOLOGIA
+
+IMPORTANTE:
+
+Criar o projeto como site estático.
+
+NÃO usar:
+
+React
+Next.js
+Vue
+Angular
+Astro
+WordPress
+frameworks desnecessários.
+
+Utilizar:
+
+HTML5
+CSS3
+JavaScript puro
+
+Estrutura:
+
+index.html
+
+css
